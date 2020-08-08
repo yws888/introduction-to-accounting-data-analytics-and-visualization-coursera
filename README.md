@@ -1,3 +1,3 @@
-#coursera introduction-to-accounting-data-analytics-and-visualization- 
+Coursera introduction to accounting data analytics and Visualization
 
-assignments
+Course assignments
